@@ -1,0 +1,11 @@
+song,mood
+Shape of You,happy
+Happy,happy
+Let Her Go,sad
+Someone Like You,sad
+Believer,energetic
+Thunder,energetic
+Perfect,romantic
+All of Me,romantic
+Calm Waves,relaxed
+Night Changes,relaxed
